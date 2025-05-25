@@ -7,7 +7,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Label } from "@/components/ui/label";
-import { FcGoogle } from 'react-icons/fc';
+import { FcGoogle } from '@react-icons/all-files/fc/FcGoogle';
 import Link from 'next/link';
 
 export default function LoginPage() {
